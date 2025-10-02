@@ -332,6 +332,5 @@ module load chpc/parallel_studio_xe/18.0.1/2018.1.038
 ---
 
 **Last Updated:** October 2025  
-**Maintainer:** cventer@lengau.chpc.ac.za  
+**Maintainer:** msovara@lengau.chpc.ac.za  
 **Project:** ASTR1245 - Vela Supernova Remnant Analysis
-EOF
